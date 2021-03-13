@@ -1,0 +1,681 @@
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      800    55734      557        0          0          293        0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      800    233        0          0          233        0          212
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      800    148        1416       0          705        391        897
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      800    519        184        0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      800    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      800    129        142        4          0          4          0
+   
+      TGN    TRKNAV
+      800    0
+
+M  ORIGINATING COMMAND # = 026326.0156
+   OP TRFTR TGCOMP                            PART 2 OF 4
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      300    141        141        0          0          112        0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      300    223        0          0          223        0          166
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      300    142        1161       0          525        561        563
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      300    597        309        0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      300    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      300    66         36         0          0          1          0
+   
+      TGN    TRKNAV
+      300    0
+
+M  ORIGINATING COMMAND # = 026326.0156
+   OP TRFTR TGCOMP                            PART 3 OF 4
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      707    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      707    0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      707    0          0          0          0          0          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      707    0          0          0          30         0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      707    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      707    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      707    0
+
+M  ORIGINATING COMMAND # = 026326.0156
+   OP TRFTR TGCOMP                            PART 4 OF 4
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      980    43         43         1          1          23         0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      980    37         0          0          37         0          36
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      980    32         441        0          236        177        255
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      980    186        150        0          0          1          1
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      980    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      980    9          15         0          0          0          0
+   
+      TGN    TRKNAV
+      980    0
+<op-trfmr:offsum;
+026326.0157 PF 
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP   TRFMR   OFFSUM  EVENT   228 PF
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                  PART 1 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   REQUESTS
+   
+        DPORQ   KTORQ   DPINRQ  MFINRQ  CCSRQ
+        0       1301    0       0       765
+   
+   ORIGINATING
+   
+        USAGE   SEIZE   ANS     TERM    OUT     SYSTERM
+        2475    1312    469     228     498     0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        582     3       0       0       0
+   
+   INCOMING
+   
+        USAGE   SEIZE   ANS     TERM    OUT     SYSTERM
+        1725    765     432     764     1       0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        0       0       0       0       0
+   
+   SYSTEM ORIGINATING
+   
+        SSATT   SSANS   SSBEHAS SSBLC   SSEXRF
+        0       0       0       0       0
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                  PART 2 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   TERMINATING
+   
+        USAGE   ATTMPTS SEIZE   ANS     BLC
+        2683    992     795     587     200
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES
+        0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS
+        157     0       1
+   
+   OUTGOING
+   
+        USAGE   ATTMPTS SEIZE   SATTMPT ANS     BSN
+        1356    499     499     420     314     110
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES   NOCKT
+        0       0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS
+        63      0       0
+   
+   SYSTEM TERMINATING
+   
+        SSOATT  SSIATT  SSSUCC  SSBEHAV SSINEFF
+        0       0       0       0       0
+   
+   ADMINISTRATIVE
+   
+        AMOCC   AVEHT
+        2       72
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                          PART 3 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   OFFICE SUMMARY REPORT -- ISDN SECTION
+   
+   
+   ORIGINATING
+   
+        USAGE   SEIZE   ANS     TERM    OUT     SYSTERM
+        28      11      10      0       11      0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        0       0       0       0       0
+   
+   
+   SYSTEM ORIGINATING
+   
+        SSATT   SSANS   SSBEHAS SSBLC   SSEXRF
+        0       0       0       0       0
+   
+   
+   TERMINATING
+   
+        USAGE   SEIZE   ANS
+        3       3       1
+   
+        BEHAVAS EXFLTAS ERRORAS ADMIN   EXRES
+        0       0       0       0       0
+   
+   
+   SYSTEM TERMINATING
+   
+        SSOATT  SSSUCC  SSBEHAV SSINEFF
+        0       0       0       0
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                  PART 4 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   GATEWAY OFFICE TOTALS
+   
+   REQUESTS
+   
+        DPINRQ  MFINRQ  CCSRQ
+        0       0       765
+   
+   INCOMING NATIONAL
+   
+        USAGE   SEIZE
+        1725    765
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        0       0       0       0       0
+   
+   INCOMING INTERNATIONAL
+   
+        USAGE   SEIZE
+        0       0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        0       0       0       0       0
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                  PART 5 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   GATEWAY OFFICE TOTALS
+   
+   OUTGOING NATIONAL
+   
+        USAGE   ATTMPTS SEIZE   SATTMPT ANS     BSN
+        2308    734     499     420     314     110
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES   NOCKT
+        0       0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS NM
+        63      0       0       0
+   
+   OUTGOING INTERNATIONAL
+   
+        USAGE   ATTMPTS SEIZE   SATTMPT ANS     BSN
+        0       0       0       0       0       0
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES   NOCKT
+        0       0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS NM
+        0       0       0       0
+   
+   ADMINISTRATIVE
+   
+        AMOCC   AVEHT
+        2       72
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                      PART 6 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+   
+   OFFICE SUMMARY REPORT -- MISCELLANEOUS PART
+   
+   CSFAIL
+   0
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                   PART 7 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+   
+   SWITCHING MODULE OCCUPANCY
+   
+        SM      OCCUP   LOAD            DTDPC   REORD   REOVLD
+        1       6       3469            0       45      0
+
+M  ORIGINATING COMMAND # = 026326.0157
+   OP TRFMR OFFSUM                                 PART 8 OF 8
+   
+   DATE          21-02-03       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                        DATA IS VALID
+   
+   MESSAGE SWITCH
+   
+        SIDE    VALID           MSCBLC          MSCSMG
+        0       Y               103121          3881
+        1       Y               102232          4719
+   
+   MODULE MESSAGE PROCESSORS
+   
+        MMP     SIDE    VALID   MMPBLC  MMPMG   RNRMG
+        0       0       Y       3600    480     0
+        1       0       Y       3600    0       0
+        0       1       Y       3600    0       0
+        1       1       Y       3600    504     0 
+<CMD< 
+          105
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CMD<                                    qqqq 105/106 q BLDG/POWER & ALARM CNTRLS
+6XX INHIBIT ALARM XX (XX=02 TO 27)      800 AUTO ALARM RETIRE       RETIRE MODE
+7XX ALLOW ALARM XX   (XX=02 TO 27)      801 MANUAL ALARM RETIRE        MANUAL
+lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq POWER ALARMS qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk
+tqqqqqqqqqwqqqqqqqqqwqqqqqqqqqwqqqqqqqqqwqqqqqqqqqwqqqqqqqqqwqqqqqqqqqwqqqqqqqqu
+x COM PWR xHIGH VLTGxSTBY PLNTxRECT FAILxPDF FUSE xBAT DSCHGx ALM BAT xMISC PWRx
+x         x         x         x         x         x         x         x        x
+mqqqqqqqqqvqqqqqqqqqvqqqqqqqqqvqqqqqqqqqvqqqqqqqqqvqqqqqqqqqvqqqqqqqqqvqqqqqqqqj
+lwqqqqqqqqqqwqqqqqqqqqqwqqqqqqqq BUILDING ALARMS qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk
+xx00      CRx01      MJtqqqqqqqqqqwqqqqqqqqqqwqqqqqqqqqqwqqqqqqqqqqwqqqqqqqqqqwu
+xx   FIRE   xFIRE ALARMx02      CRx03      MJx04      MJx05      MJx06      MJxx
+xx          x TROUBLE  xFIRE MCC  xCOND1     xCOND2     xCOND3     xAVTOZAL T xx
+xx07      MJx08      MJx09      MJx10      MJx11      MJx12      MJx13      MJxx
+xxO/C 3 ALM x          x          x          x          x          x          xx
+xx14      MJx15      MJx16      MJx17      MJx18      MJx19      MJx20      MJxx
+xx          x          x          x          x          x          x          xx
+xx21      MJx22      MJx23      MJx24      MJx25      MNx26      MNx27      MNxx
+xx          x          x          x          xGPDF MNS2 xINVERTMNF xGALAXYMNF xx
+mvqqqqqqqqqqvqqqqqqqqqqvqqqqqqqqqqvqqqqqqqqqqvqqqqqqqqqqvqqqqqqqqqqvqqqqqqqqqqvj
+                                                                             MIN
+OR                                                                           MIN
+OR                                                                             C
+M                                                                            MIN
+OR                                                                           MIN
+OR                                                                           MIN
+OR                                                                           MIN
+OR                                                                           MIN
+OR                                                                              
+OP-TRFMR:OFFSUM;
+005755.0013 PF 
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP   TRFMR   OFFSUM  EVENT   66 PF
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                  PART 1 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   REQUESTS
+   
+        DPORQ   KTORQ   DPINRQ  MFINRQ  CCSRQ
+        0       2580    0       0       1808
+   
+   ORIGINATING
+   
+        USAGE   SEIZE   ANS     TERM    OUT     SYSTERM
+        2906    2582    246     138     338     0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        2101    0       8       0       0
+   
+   INCOMING
+   
+        USAGE   SEIZE   ANS     TERM    OUT     SYSTERM
+        4703    1808    673     790     801     0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        217     0       0       0       0
+   
+   SYSTEM ORIGINATING
+   
+        SSATT   SSANS   SSBEHAS SSBLC   SSEXRF
+        0       0       0       0       0
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                  PART 2 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   TERMINATING
+   
+        USAGE   ATTMPTS SEIZE   ANS     BLC
+        3753    928     777     491     154
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES
+        0       2       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS
+        180     0       1
+   
+   OUTGOING
+   
+        USAGE   ATTMPTS SEIZE   SATTMPT ANS     BSN
+        3711    1139    1139    792     428     391
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES   NOCKT
+        0       0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS
+        148     0       48
+   
+   SYSTEM TERMINATING
+   
+        SSOATT  SSIATT  SSSUCC  SSBEHAV SSINEFF
+        0       0       0       0       0
+   
+   ADMINISTRATIVE
+   
+        AMOCC   AVEHT
+        2       62
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                          PART 3 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   OFFICE SUMMARY REPORT -- ISDN SECTION
+   
+   
+   ORIGINATING
+   
+        USAGE   SEIZE   ANS     TERM    OUT     SYSTERM
+        3       2       2       0       2       0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        0       0       0       0       0
+   
+   
+   SYSTEM ORIGINATING
+   
+        SSATT   SSANS   SSBEHAS SSBLC   SSEXRF
+        0       0       0       0       0
+   
+   
+   TERMINATING
+   
+        USAGE   SEIZE   ANS
+        11      10      3
+   
+        BEHAVAS EXFLTAS ERRORAS ADMIN   EXRES
+        2       0       0       0       0
+   
+   
+   SYSTEM TERMINATING
+   
+        SSOATT  SSSUCC  SSBEHAV SSINEFF
+        0       0       0       0
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                  PART 4 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   GATEWAY OFFICE TOTALS
+   
+   REQUESTS
+   
+        DPINRQ  MFINRQ  CCSRQ
+        0       0       1808
+   
+   INCOMING NATIONAL
+   
+        USAGE   SEIZE
+        4703    1808
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        217     0       0       0       0
+   
+   INCOMING INTERNATIONAL
+   
+        USAGE   SEIZE
+        0       0
+   
+        BEHAV   EXFLT   ERROR   ADMIN   EXRES
+        0       0       0       0       0
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                  PART 5 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+                                        ALL USAGE IN ERLANG TIMES 100
+                                        AVG 100-SECOND SCANS 36
+   
+   GATEWAY OFFICE TOTALS
+   
+   OUTGOING NATIONAL
+   
+        USAGE   ATTMPTS SEIZE   SATTMPT ANS     BSN
+        2158    753     725     457     284     285
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES   NOCKT
+        0       0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS NM
+        110     0       44      0
+   
+   OUTGOING INTERNATIONAL
+   
+        USAGE   ATTMPTS SEIZE   SATTMPT ANS     BSN
+        0       0       0       0       0       0
+   
+        BEHAVBS EXFLTBS ERRORBS ADMIN   EXRES   NOCKT
+        0       0       0       0       0       0
+   
+        BEHAVAS EXFLTAS ERRORAS NM
+        0       0       0       0
+   
+   ADMINISTRATIVE
+   
+        AMOCC   AVEHT
+        2       62
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                      PART 6 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+   
+   OFFICE SUMMARY REPORT -- MISCELLANEOUS PART
+   
+   CSFAIL
+   0
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                   PART 7 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+   
+   SWITCHING MODULE OCCUPANCY
+   
+        SM      OCCUP   LOAD            DTDPC   REORD   REOVLD
+        1       6       2666            0       8       0
+        2       4       353             0       27      0
+        3       5       1365            0       0       0
+        150     12      989             0       30      0
+        154     12      415             0       16      0
+        158     11      460             0       4       0
+        162     58      151             0       1       0
+
+M  ORIGINATING COMMAND # = 005755.0013
+   OP TRFMR OFFSUM                                 PART 8 OF 8
+   
+   DATE          21-03-07       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     19           18:00           19:00
+                                        DATA IS VALID
+   
+   MESSAGE SWITCH
+   
+        SIDE    VALID           MSCBLC          MSCSMG
+        0       Y               132823          13436
+        1       Y               131787          25056
+   
+   MODULE MESSAGE PROCESSORS
+   
+        MMP     SIDE    VALID   MMPBLC  MMPMG   RNRMG
+        0       0       Y       13930   8054    0
+        1       1       Y       13912   11362   0

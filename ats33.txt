@@ -1,0 +1,612 @@
+  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 1 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      200    231        231        89         64         157        0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      200    363        0          0          365        0          149
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      200    130        1566       0          741        711        797
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      200    769        309        0          0          89         89
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      200    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      200    248        38         0          0          1          0
+   
+      TGN    TRKNAV
+      200    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 2 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      803    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      803    18         0          0          18         0          17
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      803    17         19         0          0          16         0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      803    19         30         0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      803    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      803    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      803    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 3 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      800    7163       6972       2865       1871       3129       6
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      800    1410       0          0          1404       0          1259
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      800    968        12622      2          7716       2550       9511
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      800    3108       588        0          0          2864       2864
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      800    7          6          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      800    2368       1049       2          3          149        1
+   
+      TGN    TRKNAV
+      800    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 4 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      970    194        194        68         64         121        0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      970    194        0          0          191        0          140
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      970    108        1119       0          513        477        572
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      970    547        153        0          0          68         68
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      970    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      970    89         59         0          0          7          0
+   
+      TGN    TRKNAV
+      970    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 5 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      899    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      899    9          0          0          9          0          9
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      899    9          30         0          0          30         0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      899    30         31         0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      899    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      899    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      899    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 6 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      399    14         14         14         13         12         0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      399    14         0          0          14         0          12
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      399    10         44         0          38         5          38
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      399    5          60         0          0          14         14
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      399    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      399    0          3          0          0          0          0
+   
+      TGN    TRKNAV
+      399    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 7 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      380    458        453        312        214        247        1
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      380    848        0          0          854        0          638
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      380    491        3058       0          825        1858       991
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      380    2066       90         0          0          312        312
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      380    1          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      380    168        172        1          0          84         1
+   
+      TGN    TRKNAV
+      380    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 8 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      344    153        151        94         64         92         0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      344    679        0          0          678        0          476
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      344    376        1447       0          280        969        305
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      344    1141       30         0          0          94         94
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      344    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      344    133        101        0          0          14         0
+   
+      TGN    TRKNAV
+      344    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 9 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      303    69         69         47         33         49         0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      303    285        0          0          282        0          204
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      303    185        838        0          236        530        255
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      303    583        60         0          0          47         47
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      303    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      303    34         19         0          0          4          0
+   
+      TGN    TRKNAV
+      303    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 10 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      980    640        635        501        443        429        0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      980    1665       0          0          1650       0          1093
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      980    939        4316       0          1325       2491       1525
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      980    2791       480        0          60         501        501
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      980    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      980    472        233        0          1          62         1
+   
+      TGN    TRKNAV
+      980    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 11 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      320    22         22         13         3          10         0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      320    94         0          0          94         0          67
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      320    42         188        0          19         161        19
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      320    169        30         0          0          13         13
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      320    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      320    8          5          0          0          3          0
+   
+      TGN    TRKNAV
+      320    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 12 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      202    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      202    10         0          0          9          0          9
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      202    4          5          0          0          2          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      202    5          30         0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      202    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      202    3          0          0          0          0          0
+   
+      TGN    TRKNAV
+      202    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 13 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      1200   3          3          2          2          3          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      1200   0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      1200   0          11         0          11         0          11
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      1200   0          60         0          0          2          2
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      1200   0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      1200   0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      1200   0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 14 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      301    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      301    0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      301    0          1500       1500       0          0          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      301    0          0          15         0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      301    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      301    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      301    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 15 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      302    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      302    0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      302    0          500        500        0          0          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      302    0          0          5          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      302    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      302    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      302    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 16 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      690    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      690    0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      690    0          0          0          0          0          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      690    0          5          0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      690    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      690    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      690    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 17 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      699    0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      699    0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      699    0          0          0          0          0          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      699    0          10         0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      699    0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      699    0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      699    0
+
+M  ORIGINATING COMMAND # = 005493.0004
+   OP TRFTR TGCOMP                            PART 18 OF 18
+   
+   DATE          21-03-01       ID           START           END
+   PROGRAM                                     -  -            -  -  
+   PERIOD                                      :               :  
+   INTERVAL                     11           10:00           11:00
+                                          DATA IS VALID
+                                          ALL USAGE IN ERLANG TIMES 100
+                                          AVG 100-SECOND SCANS 36
+   
+   ALL TRUNK GROUP DATA
+   
+      TGN    ISEIZE     IROUTE     ISETUP     ISATTMP    IANS       ICONGES
+      1699   0          0          0          0          0          0
+   
+      TGN    OATTMPT    FAOATT     OVFL       OSEIZE     OARR       OSATTMP
+      1699   0          0          0          0          0          0
+   
+      TGN    OANS       TOTUSG     MTUSG      IANSUSG    OANSUSG    BWINCU
+      1699   0          0          0          0          0          0
+   
+      TGN    BWOUTU     INSVC      OOSMTCE    OOS        TRANBID    ITRANSZ
+      1699   0          15         0          0          0          0
+   
+      TGN    DBLSZR     INADSZ     MATTMPT    MOVFL      MSEIZE     FCO
+      1699   0          0          0          0          0          0
+   
+      TGN    SBBSY      SBNANS     NTWCONG    PDTO       INVNR      SIGERRS
+      1699   0          0          0          0          0          0
+   
+      TGN    TRKNAV
+      1699   0
+<                                MINOR  
